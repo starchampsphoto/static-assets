@@ -1,3 +1,3 @@
 # static-assets
 
-Images in this repository were created by and copyrighted by Yuding Lin.
+Images in this repository are the property of and copyright by Yuding Lin.
